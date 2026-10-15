@@ -1,0 +1,14 @@
+/home/hebajalil/Desktop/Abstraction/bin/Debug/net10.0/Abstraction
+/home/hebajalil/Desktop/Abstraction/bin/Debug/net10.0/Abstraction.deps.json
+/home/hebajalil/Desktop/Abstraction/bin/Debug/net10.0/Abstraction.runtimeconfig.json
+/home/hebajalil/Desktop/Abstraction/bin/Debug/net10.0/Abstraction.dll
+/home/hebajalil/Desktop/Abstraction/bin/Debug/net10.0/Abstraction.pdb
+/home/hebajalil/Desktop/Abstraction/obj/Debug/net10.0/Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+/home/hebajalil/Desktop/Abstraction/obj/Debug/net10.0/Abstraction.AssemblyInfoInputs.cache
+/home/hebajalil/Desktop/Abstraction/obj/Debug/net10.0/Abstraction.AssemblyInfo.cs
+/home/hebajalil/Desktop/Abstraction/obj/Debug/net10.0/Abstraction.csproj.CoreCompileInputs.cache
+/home/hebajalil/Desktop/Abstraction/obj/Debug/net10.0/Abstraction.dll
+/home/hebajalil/Desktop/Abstraction/obj/Debug/net10.0/refint/Abstraction.dll
+/home/hebajalil/Desktop/Abstraction/obj/Debug/net10.0/Abstraction.pdb
+/home/hebajalil/Desktop/Abstraction/obj/Debug/net10.0/Abstraction.genruntimeconfig.cache
+/home/hebajalil/Desktop/Abstraction/obj/Debug/net10.0/ref/Abstraction.dll
