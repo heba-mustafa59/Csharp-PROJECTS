@@ -1,0 +1,14 @@
+/home/hebajalil/Desktop/encapsulation/bin/Debug/net10.0/encapsulation
+/home/hebajalil/Desktop/encapsulation/bin/Debug/net10.0/encapsulation.deps.json
+/home/hebajalil/Desktop/encapsulation/bin/Debug/net10.0/encapsulation.runtimeconfig.json
+/home/hebajalil/Desktop/encapsulation/bin/Debug/net10.0/encapsulation.dll
+/home/hebajalil/Desktop/encapsulation/bin/Debug/net10.0/encapsulation.pdb
+/home/hebajalil/Desktop/encapsulation/obj/Debug/net10.0/encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+/home/hebajalil/Desktop/encapsulation/obj/Debug/net10.0/encapsulation.AssemblyInfoInputs.cache
+/home/hebajalil/Desktop/encapsulation/obj/Debug/net10.0/encapsulation.AssemblyInfo.cs
+/home/hebajalil/Desktop/encapsulation/obj/Debug/net10.0/encapsulation.csproj.CoreCompileInputs.cache
+/home/hebajalil/Desktop/encapsulation/obj/Debug/net10.0/encapsulation.dll
+/home/hebajalil/Desktop/encapsulation/obj/Debug/net10.0/refint/encapsulation.dll
+/home/hebajalil/Desktop/encapsulation/obj/Debug/net10.0/encapsulation.pdb
+/home/hebajalil/Desktop/encapsulation/obj/Debug/net10.0/encapsulation.genruntimeconfig.cache
+/home/hebajalil/Desktop/encapsulation/obj/Debug/net10.0/ref/encapsulation.dll
